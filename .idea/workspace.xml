@@ -20,9 +20,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="71891c8e-0b54-413a-99f0-9ac7d6fb93de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/controllers/bootcamps.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/bootcamps.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/courses.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/reviews.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_data/users.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/db.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/middleware/logger.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/Bootcamp.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/bootcamps.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/bootcamps.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/bootcamps.js" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/bootcamps.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +55,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/config" />
     </key>
   </component>
@@ -58,7 +68,12 @@
       <option name="presentableId" value="Default" />
       <updated>1607958455442</updated>
       <workItem from="1607958456514" duration="7789000" />
-      <workItem from="1608009954542" duration="1007000" />
+      <workItem from="1608009954542" duration="2998000" />
+      <workItem from="1608103458955" duration="535000" />
+      <workItem from="1608155401478" duration="1205000" />
+      <workItem from="1608185379474" duration="2952000" />
+      <workItem from="1608277104396" duration="3378000" />
+      <workItem from="1608315653840" duration="2340000" />
     </task>
     <servers />
   </component>
@@ -75,6 +90,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1621" y="576" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607960481968">
