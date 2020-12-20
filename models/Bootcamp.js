@@ -99,4 +99,10 @@ const BootcampSchema = new mongoose.Schema({
 
 });
 
+const experimentSchema = new mongoose.Schema({
+    hero: Boolean,
+    zero: Boolean
+})
+
+
 module.exports = mongoose.model('Bootcamp', BootcampSchema);
